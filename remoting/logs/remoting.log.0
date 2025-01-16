@@ -1,0 +1,10 @@
+Jan 09, 2025 10:38:43 AM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: todo-app-dev
+Jan 09, 2025 10:38:43 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3261.v9c670a_4748a_9
+Jan 09, 2025 10:38:43 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/ec2-user/projects/django-todo/remoting as a remoting work directory
+Jan 09, 2025 10:38:44 AM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Jan 09, 2025 10:38:44 AM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
