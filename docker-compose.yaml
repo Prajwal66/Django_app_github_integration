@@ -1,0 +1,6 @@
+version : "2.32"
+services: 
+  web:
+    build: .
+    ports: 
+        - "8001:8001"
